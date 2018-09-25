@@ -1,22 +1,20 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Last week I started setting up the shuttle tracker onto my machine. However, I was unsuccessful configuring PostGreSQL and need assistance on that.
+> In the meantime, I researched on how PostGreSQL databases are set up and drew out a table structure for how we can store data for the shuttle stops and times.
+> I also tried making a python script to read data off the school shuttle schedule PDF. However, the data on the pdf was cluttered and hard to parse in a meaningful way.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+> Get the shuttle tracker fulling running on my machine
+> Learn more about parsing data from a excell sheet in Go
+> Work with teamates on inputting data into a postgres database
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> I am unable to configure PostGreSQL on my machine
+> I think it is an issue with using WSL with a windows installation of PostGre
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> N/A
